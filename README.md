@@ -1,6 +1,7 @@
 # Lab 1: Node.js and Express Server
 
-**Live link:** *Not deployed — see Postman / browser screenshots below*
+**GitHub Repository:** https://github.com/Likhithudayagiri/-Backend-Development-Fundamentals-lab1  
+**Live Deployed URL:** *(Render deployment — see below)*
 
 ---
 
