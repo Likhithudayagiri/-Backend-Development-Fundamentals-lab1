@@ -1,7 +1,8 @@
 # Lab 1: Node.js and Express Server
 
 **GitHub Repository:** https://github.com/Likhithudayagiri/-Backend-Development-Fundamentals-lab1  
-**Live Deployed URL:** *(Render deployment — see below)*
+**Live Deployed URL:** https://lab1-88l25t9ol-goodfellas11.vercel.app/  
+> **Note:** If prompted to log in, go to Vercel Dashboard → Project Settings → Security → disable "Password Protection".
 
 ---
 
